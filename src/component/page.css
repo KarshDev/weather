@@ -1,0 +1,19 @@
+.nav{
+   background-color:  #00cb6e;
+   padding: 5px;
+   display: flex;
+   flex-direction: row;
+}
+.nav_div_1, .nav_div_2{
+    flex: 1
+}
+.nav_div_2{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 5px
+}
+
+.navL{
+    margin-left: 15px 
+}
